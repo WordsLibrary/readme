@@ -15,4 +15,4 @@ ShabeleA以外のサービスでも場合によっては利用できます。
 - 正しい使い方をしてください。
 - 自作発言はおやめください。
 - 改変、二次配布は禁止です。変更を希望する場合は我々に提案してください。
-- 公開元を記載する場合は、[Twitter](https://twitter.com/words_library)と[github](https://github.com/WordsLibrary)の記載をお願いします。
+- 公開元を記載する場合は、[Twitter](https://twitter.com/words_library)と[GitHub](https://github.com/WordsLibrary)の記載をお願いします。
